@@ -1,12 +1,7 @@
-#Modelli Italiani
-
-->![Ilaria owo](https://media.discordapp.net/attachments/1126280055069347881/1129221314541011055/ila_1.png)->
-->*A cura di Ilaria*->
-
-->![home](https://i.ibb.co/0DYHNYm/3556178-2.png) [Torna alla home](https://rentry.org/link-utili)<-
+# Modelli Italiani
 
 ***
-##Ciao!
+## Ciao!
 Qui puoi trovare tutti i modelli italiani pubblici per RVC V2.
 
 Per **ottenere il link** di un modello basta semplicemente fare click destro sulla scritta blu "link", oppure click sinistro se desideri scaricare il file zip. 
@@ -26,7 +21,7 @@ Se vedi questo simbolo: ⭐ significa che è il modello è di altissima qualità
 **Sommario**
 [TOC3]
 ***
-###Content Creator
+### Content Creator
 ‎
 Voce | Autore (Discord) | Dettagli | Link
 ---- | :----: | :----: | :----: 
@@ -179,7 +174,7 @@ Voce | Autore (Discord) | Dettagli | Link
 ![Zeb89](https://files.catbox.moe/lc49dn.png) **Zeb89** | ![ss](https://i.ibb.co/pzw9kSK/line.png) Swarmer | ![ss](https://i.ibb.co/pzw9kSK/line.png) RVC V2 - 300 Epochs | ![ss](https://i.ibb.co/pzw9kSK/line.png) [Link](https://huggingface.co/Swarmer/rvcmodels/resolve/main/zeb89-300.zip)
 
 ***
-###Cantanti
+### Cantanti
 ‎
 Voce | Autore (Discord) | Dettagli | Link
 ---- | :----: | :----: | :----: 
@@ -290,7 +285,7 @@ Voce | Autore (Discord) | Dettagli | Link
 ![Zucchero V2](https://i.ibb.co/YdQZxfm/316234690-685271339628290-4396119143634255781-n-1.jpg) **Zucchero V2**   | Sessionn  ![ss](https://i.ibb.co/pzw9kSK/line.png)   | RVC V2 - 450 Epochs ![ss](https://i.ibb.co/pzw9kSK/line.png)   | ![ss](https://i.ibb.co/pzw9kSK/line.png) [Link](https://huggingface.co/Sessionn/ZuccheroVoiceV2/resolve/main/ZuccheroVoiceV2.zip)
 
 ***
-###Attori, Doppiatori e Conduttori Film/TV
+### Attori, Doppiatori e Conduttori Film/TV
 ‎
 Voce | Autore (Discord) | Dettagli | Link
 ---- | :----: | :----: | :----: 
@@ -326,7 +321,7 @@ Voce | Autore (Discord) | Dettagli | Link
 ![Zerocalcare](https://i.ibb.co/jhs8j0t/image-19.png) **Zerocalcare**   | thestingerx ![ss](https://i.ibb.co/pzw9kSK/line.png)   | RVC V2 - 300 Epochs ![ss](https://i.ibb.co/pzw9kSK/line.png)   | ![ss](https://i.ibb.co/pzw9kSK/line.png) [Link](https://huggingface.co/TheStinger/Zerocalcare/resolve/main/Zerocalcare.zip)
 
 ***
-###Personaggi Famosi
+### Personaggi Famosi
 ‎
 Voce | Autore (Discord) | Dettagli | Link
 ---- | :----: | :----: | :----: 
@@ -357,7 +352,7 @@ Voce | Autore (Discord) | Dettagli | Link
 
 
 ***
-###Personaggi di Film e Serie
+### Personaggi di Film e Serie
 ‎
 Voce | Autore (Discord) | Dettagli | Link
 ---- | :----: | :----: | :----: 
@@ -457,7 +452,7 @@ Voce | Autore (Discord) | Dettagli | Link
 ![Zaffiro](https://i.ibb.co/hLHfF5G/image.png) **Zaffiro (Steven Universe)** | ![ss](https://i.ibb.co/pzw9kSK/line.png) LollenApe | ![ss](https://i.ibb.co/pzw9kSK/line.png) RVC V2 - 300 Epochs | ![ss](https://i.ibb.co/pzw9kSK/line.png) [Link](https://huggingface.co/lollenape/LollenApeRVC/resolve/main/Zaffiro.zip)
 
 ***
-###Videogiochi
+### Videogiochi
 ‎
 Voce | Autore (Discord) | Dettagli | Link
 ---- | :----: | :----: | :----: 
@@ -532,7 +527,7 @@ Voce | Autore (Discord) | Dettagli | Link
 ![Zenyatta](https://files.catbox.moe/wup1fp.png) **Zenyatta (Overwatch)** | ![ss](https://i.ibb.co/pzw9kSK/line.png) chocokakao | ![ss](https://i.ibb.co/pzw9kSK/line.png) RVC V2 - 300 Epochs | ![ss](https://i.ibb.co/pzw9kSK/line.png) [Link](https://huggingface.co/Kakao111/Zenyatta)
 
 ***
-###Altro
+### Altro
 ‎
 Voce | Autore (Discord) | Dettagli | Link
 ---- | :----: | :----: | :----:
@@ -550,20 +545,10 @@ Voce | Autore (Discord) | Dettagli | Link
 ![Voce Istituto Lvce](https://cdn.discordapp.com/attachments/1142847943267844227/1149157350419222629/image.png) **Voce Istituto Lvce**   | loren85 ![ss](https://i.ibb.co/pzw9kSK/line.png)   | RVC V2 - 250 Epochs ![ss](https://i.ibb.co/pzw9kSK/line.png)   | ![ss](https://i.ibb.co/pzw9kSK/line.png) [Link](https://huggingface.co/Loren85/Voce-istituto-Lvce/resolve/main/Voce%20istituto%20lvce.zip)
 
 ***
-###Contatti, Richieste e Credits
+### Contatti, Richieste e Credits
 ‎
 Per qualsiasi **domanda e/o richiesta**, scrivere nella **chat italiana** di [AI Hub](https://discord.gg/aihubbrasil)
-Per aggiungere un modello al sito, compilare il [modulo](https://forms.gle/g1naeKA222gvTta58) e verrà inserito il prima possibile (verrai creditato).
+Per aggiungere un modello al sito, compilare il [modulo]() e verrà inserito il prima possibile (verrai creditato).
 Per richiedere la **rimozione** di un modello, **contattare lo Staff**.
 ‎
-‎
-‎
-![Ilaria](https://i.ibb.co/rdRFP4q/image0.png) ![linea](https://i.ibb.co/HNmMryB/linea-1.png) **Ilaria** - Creatrice, Organizer, Editor.
-
-![Para](https://i.ibb.co/k31RJkV/image0-1.jpg) ![linea](https://i.ibb.co/HNmMryB/linea-1.png) **Para** - Organizer, Editor, Consigliere.
-
-![Kakao](https://i.ibb.co/xjQFWnX/image0-1.png) ![linea](https://i.ibb.co/HNmMryB/linea-1.png) **Kakao** - Checker, Tester.
-
-![Ryanz](https://i.ibb.co/MDv4dhk/image0-2.jpg) ![linea](https://i.ibb.co/HNmMryB/linea-1.png) **Ryanz** - Checker, Tester.
-
-![LollenApe](https://media.discordapp.net/attachments/1142908288938287206/1149160645158256730/e63f46f27ec357df5771036f88ca237d_2.png?width=102&height=102) ![linea](https://i.ibb.co/HNmMryB/linea-1.png) **LollenApe** - Editor, Organizer, Calabrese.
+QUESTO PROGETTO E' UN REUPLOAD DELLA PAGINA UFFICIALE CHE E' STATA CHIUSA DAI CREATORI PRECEDENTI
